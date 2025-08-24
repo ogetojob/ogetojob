@@ -17,7 +17,8 @@ I enjoy transforming raw data into insights and building pipelines that scale.
 
 ## 📊 GitHub Stats  
 
-![Ogeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogetojob&show_icons=true&theme=radical)  
+![Ogeto's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogetojob&show_icons=true&theme=radical&include_all_commits=true)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogetojob&layout=compact&theme=tokyonight)  
 
