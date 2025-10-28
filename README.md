@@ -1,15 +1,18 @@
 # 👋 Hi, I’m Ogeto Job
 
-***💡 Data Enthusiast | Data Engineering & Analytics***  
-I enjoy transforming raw data into insights and building pipelines that scale.  
-- 👯 I’m looking to collaborate on Python & SQL projects  
-- ⚡ Fun fact: Always learning 🚀  
+***💡 Data & Tech Strategist | Data Engineering & Analytics | Cloud Computing***  
+I thrive at the intersection of data, infrastructure, and innovation—whether it’s building scalable pipelines, troubleshooting systems, or evaluating startups for investment potential.
+• 	👨🏾‍💻 Currently training in AWS Cloud Computing & Data Engineering
+• 	📊 Certified in IT Support, Data Analytics, and Azure AI
+• 	🔍 Currently a Venture Capital Externship with Extern,HP Tech Ventures
+• 	👯 Open to collaborating on Python, SQL, and Cloud-based projects
+• 	⚡ Fun fact: I love turning complex problems into simple, elegant solutions  
 
 ---
 
 ## 🛠 Tech Stack  
 
-| **Languages & Querying** | **Visualization & BI** | **Data Engineering (Still learning)** |
+| **Languages & Querying** | **Visualization & BI Tools** | **Data Engineering & Cloud Computing (In Progress)** |
 |---------------------------|-------------------------|---------------------------------------|
 | ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005571?style=for-the-badge&logo=plotly&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-319795?style=for-the-badge&logo=python&logoColor=white) | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white) ![Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white) ![Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) |
 
