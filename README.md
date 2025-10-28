@@ -2,6 +2,7 @@
 
 ***💡 Data & Tech Strategist | Data Engineering & Analytics | Cloud Computing***  
 I thrive at the intersection of data, infrastructure, and innovation—whether it’s building scalable pipelines, troubleshooting systems, or evaluating startups for investment potential.
+
 • 	👨🏾‍💻 Currently training in AWS Cloud Computing & Data Engineering
 • 	📊 Certified in IT Support, Data Analytics, and Azure AI
 • 	🔍 Currently a Venture Capital Externship with Extern,HP Tech Ventures
